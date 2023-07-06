@@ -15,7 +15,7 @@
 - [ ] When the user hovers over certain things on the page a change will occur
 - [ ]  Utilize css reset to remove all styles of the main stylesheet since each browser loads different default styles
 - [ ]  This project will encompass HTML and CSS
-- [ ]  An Interactive and Dynamic app
+- [ ]  An Interactive and Modern webpage
 ---
 - [ ]  HTML → will be the structure and skeleton of how the app will appear on the webpage
 - [ ]  CSS → encompass the style of the app and give it some flare
