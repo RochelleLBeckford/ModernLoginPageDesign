@@ -17,5 +17,8 @@
 - [ ]  This project will encompass HTML and CSS
 - [ ]  An Interactive and Modern webpage
 ---
+- [ ] Encompass:
+    - [ ] HTML
+    - [ ] CSS
 - [ ]  HTML → will be the structure and skeleton of how the app will appear on the webpage
 - [ ]  CSS → encompass the style of the app and give it some flare
